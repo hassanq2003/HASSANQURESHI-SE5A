@@ -1,1 +1,3 @@
 Just adding doc.txt
+
+Making Changes for step 2
